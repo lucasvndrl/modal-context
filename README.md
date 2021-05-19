@@ -1,4 +1,4 @@
-#Simple modal component using context api 
+# Simple modal component using context api 
 
 # Getting Started with Create React App
 
